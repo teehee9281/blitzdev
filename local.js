@@ -38,7 +38,7 @@ function changeCloak(selectedValue) {
       title.innerText = "Clever | Portal";
       break;
     case "Powerschool":
-      favicon.href = "/CloakIMGs/Powerschool.ico";
+      favicon.href = "CloakIMGs/Powerschool.ico";
       title.innerText = "Weekly Schedule";
       break;
     case "Powerschool-2":
