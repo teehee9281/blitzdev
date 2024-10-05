@@ -132,7 +132,7 @@ function Suggestion() {
 }
 
 function openFnaf1() {
-  openWindow("https://ubg98.github.io/FNAF/", 'Google Docs', '/CloakIMGs/docs.ico');
+  openWindow("https://ubg98.github.io/FNAF/", 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 function openFnaf2() {
