@@ -354,14 +354,12 @@ function openPool() {
 function openHole() {
   openWindow('https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@93a27eabbbe5eb626af5b9b7dd0926ac16810a41/Code/Java/hole.xml&container=ig', 'Google Docs', 'CloakIMGs/docs.ico');
 }
+
 function openForces() {
   alert("It takes a bit to load, and it's a bit laggy at the start, but this is a very  good game so I'd say it's worth the wait.");
   openWindow('https://html5.gamedistribution.com/rvvASMiM/1a89ecde7c9743899852c1f532cb7972/index.html?timestamp=-62135596800&countryCode=en&siteid=79&channelid=2&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fwww.agame.com%2Fgame%2Farmedforcesio&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5hZ2FtZS5jb20vZ2FtZS9hcm1lZGZvcmNlc2lvIiwicGFyZW50RG9tYWluIjoiYWdhbWUuY29tIiwidG9wRG9tYWluIjoiYWdhbWUuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
-function openKarts() {
-  openWindow('https://smashkartsonline.github.io/v/smash-karts-2.5.0/', 'Google Docs', 'CloakIMGs/docs.ico');
-}
 function openFishing() {
   alert("The progress doesn't save when closed, so don't close this tab");
   openWindow('https://webglmath.github.io/tiny-fishing/', 'Google Docs', 'CloakIMGs/docs.ico');
@@ -381,6 +379,8 @@ function openBasketballStars() {
   openWindow('https://games.builds.gamepix.com/35LBE/6684084835524280320/index.html?sid=e4515&lang=en&namespace=basketball-stars', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
+// Apps
+
 function cymath() {
   openWindow('https://cymath.com', 'Google Docs', 'CloakIMGs/docs.ico'); 
 }
@@ -388,7 +388,4 @@ function Gemini() {
  openWindow('https://codeezyx.github.io/blitz.ai/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
-function gmailTitle() {
-    
-  
-}
+
