@@ -183,10 +183,6 @@ function openWindow(url, title, favicon) {
 }
 
 
-function aboutBlank() {
-  openWindow('https://teehee9281.github.io/blitz', 'Google Docs', 'CloakIMGs/docs.ico')
-}
-
 function Suggestion() {
   window.open("https://forms.gle/ds4gGs5zM2ZTB3Wq8", "_blank");
 }
