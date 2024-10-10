@@ -1,2 +1,4 @@
 RewriteEngine On
 RewriteRule ^index$ index.html [L]
+RewriteRule ^apps$ apps.html [L]
+RewriteRule ^settings$ settings.html [L]
