@@ -234,7 +234,7 @@ function openSlope() {
 
 
 function openBacon() {
-  openWindow("https://easytutoring.app/gamefiles/baconmaydie/", 'Google Docs', 'CloakIMGs/docs.ico');
+  openWindow("https://tybsi.com/games/bacon-may-die/index.html", 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 
@@ -299,13 +299,9 @@ function openBasket() {
   openWindow('https://basketrandom.io/game/basket-random/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
-function openNeighbor() {
-  alert("When you click 'PLAY', you will be redirected to another website. Exit out of that one and go back to the game tab.")
-  openWindow('https://thatsnotmyneighbor.org/scary-neighbor-online.embed', 'Google Docs', 'CloakIMGs/docs.ico');
-}
 
 function openHangman() {
-  openWindow('https://html5.gamedistribution.com/rvvASMiM/c38c6e448b33474cae14cccc3ec00702/index.html?utm_source=minicrossword.io&utm_medium=hangman&utm_campaign=block-and-redirect&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tL2MzOGM2ZTQ0OGIzMzQ3NGNhZTE0Y2NjYzNlYzAwNzAyLz91dG1fc291cmNlPW1pbmljcm9zc3dvcmQuaW8mdXRtX21lZGl1bT1oYW5nbWFuJnV0bV9jYW1wYWlnbj1ibG9jay1hbmQtcmVkaXJlY3QiLCJwYXJlbnREb21haW4iOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInRvcERvbWFpbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9', 'Google Docs', 'CloakIMGs/docs.ico');
+  openWindow('https://html5.gamedistribution.com/rvvASMiM/c38c6e448b33474cae14cccc3ec00702/index.html?utm_source=html5.gamedistribution.com&utm_medium=Hangman&utm_campaign=block-and-redirect&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tL2MzOGM2ZTQ0OGIzMzQ3NGNhZTE0Y2NjYzNlYzAwNzAyLz91dG1fc291cmNlPWh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tJnV0bV9tZWRpdW09SGFuZ21hbiZ1dG1fY2FtcGFpZ249YmxvY2stYW5kLXJlZGlyZWN0IiwicGFyZW50RG9tYWluIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ0b3BEb21haW4iOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 function openOnlyUp() {
@@ -322,6 +318,7 @@ function openBlockSnake() {
 }
 
 function openFNI() {
+  alert("If you can't get out of the calibration, press escape.");
   openWindow('https://html-classic.itch.zone/html/1175401/index.html?v=1574336293', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
@@ -331,6 +328,7 @@ function openPoly() {
 }
 
 function openSkib() {
+  alert("Might take a while to load.");
   openWindow('https://slope-game.github.io/agent-walker-vs-skibidi-toilets/', 'Google Docs',  'CloakIMGs/docs.ico');
 }
 
