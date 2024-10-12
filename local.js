@@ -234,7 +234,7 @@ function openSlope() {
 
 
 function openBacon() {
-  openWindow("https://game.enjoy4fun.com/baconmaydie/v2/index.html?uid=cb7u1g6rsfesr7vv63d0&channel-id=3487216655", 'Google Docs', 'CloakIMGs/docs.ico');
+  openWindow("https://tybsi.com/games/bacon-may-die/index.html", 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 
