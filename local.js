@@ -234,7 +234,7 @@ function openSlope() {
 
 
 function openBacon() {
-  openWindow("https://tybsi.com/games/bacon-may-die/index.html", 'Google Docs', 'CloakIMGs/docs.ico');
+  openWindow("https://www.spiele-umsonst.de/azad/downloads/html5games/action/baconmaydie/", 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 
