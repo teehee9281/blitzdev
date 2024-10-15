@@ -391,7 +391,7 @@ function Gemini() {
 }
 
 function Symbolab() {
-  openWindow('https://symbolab.com/', 'Google Docs', 'CloakIMGs/docs.ico');
+  openWindow('https://www.mathway.com/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 
