@@ -387,7 +387,11 @@ function cymath() {
   openWindow('https://cymath.com', 'Google Docs', 'CloakIMGs/docs.ico'); 
 }
 function Gemini() {
- openWindow('https://codeezyx.github.io/blitz.ai/', 'Google Docs', 'CloakIMGs/docs.ico');
+  openWindow('https://codeezyx.github.io/blitz.ai/', 'Google Docs', 'CloakIMGs/docs.ico');
+}
+
+function Symbolab() {
+  openWindow('https://www.symbolab.com/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 
