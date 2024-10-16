@@ -390,7 +390,7 @@ function Gemini() {
   openWindow('https://codeezyx.github.io/blitz.ai/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
-function Symbolab() {
+function Mathway() {
   alert("On the screen keypad, click a number and click backspace on the keypad (the arrow facing left on the bottom right) to enable typing in your equation (May take multiple attempts)");
   openWindow('https://www.mathway.com/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
