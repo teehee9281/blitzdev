@@ -385,6 +385,10 @@ function openTunnelRush() {
   openWindow('https://tunnelrushgame.io/game/tunnel-rush/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
+function openSnowRider() {
+  openWindow('https://itsvijaysingh.github.io/Snow-Rider3D/', 'Google Docs', 'CloakIMGs/docs.ico')
+}
+
 // Apps
 
 function cymath() {
