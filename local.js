@@ -381,6 +381,10 @@ function openBottle() {
   openWindow('https://geometryspot.help/bottleflip3d.html', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
+function openTunnelRush() {
+  openWindow('https://guardianwall.org/main/tunnelrush/', 'Google Docs', 'CloakIMGs/docs.ico');
+}
+
 // Apps
 
 function cymath() {
