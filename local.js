@@ -382,7 +382,7 @@ function openBottle() {
 }
 
 function openTunnelRush() {
-  openWindow('https://guardianwall.org/main/tunnelrush/', 'Google Docs', 'CloakIMGs/docs.ico');
+  openWindow('https://tunnelrushgame.io/game/tunnel-rush/', 'Google Docs', 'CloakIMGs/docs.ico');
 }
 
 // Apps
