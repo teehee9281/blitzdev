@@ -392,7 +392,7 @@ function openSnowRider() {
 }
 
 function openFreeKick() {
-  openWindow('https://play.famobi.com/3d-free-kick/A-FAK0S', document.title, favicon.href);
+  openWindow('https://play.famobi.com/3d-free-kick/A1000-10A', document.title, favicon.href);
 }
 
 function openWinterX3M() {
