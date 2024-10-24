@@ -395,6 +395,10 @@ function openFreeKick() {
   openWindow('https://play.famobi.com/3d-free-kick/A-FAK0S', document.title, favicon.href);
 }
 
+function openWinterX3M() {
+  openWindow('https://moto-x3m.net/winter/main.html', document.title,  favicon.href);
+}
+
 // Apps
 
 function cymath() {
