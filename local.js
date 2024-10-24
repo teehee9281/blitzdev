@@ -391,6 +391,10 @@ function openSnowRider() {
   openWindow('https://itsvijaysingh.github.io/Snow-Rider3D/', document.title, favicon.href);
 }
 
+function openFreeKick() {
+  openWindow('https://play.famobi.com/3d-free-kick/A-FAK0S', document.title, favicon.href);
+}
+
 // Apps
 
 function cymath() {

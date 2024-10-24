@@ -1,5 +1,5 @@
-# **BlitzHub Testing**
-**Testing repo for BlitzHub.fun**
+# **BlitzHub Developer**
+**Developer repo for BlitzHub.fun**
 ## **To-Do List:**
 ### Remove: 
 
