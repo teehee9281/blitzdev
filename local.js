@@ -396,7 +396,7 @@ function openFreeKick() {
 }
 
 function openWinterX3M() {
-  openWindow('https://moto-x3m.net/winter/main.html', document.title,  favicon.href);
+  openWindow('https://html5.gamedistribution.com/rvvASMiM/bcacf81441bd4c7799a622171116ea9d/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.mathnook.com%2Ffun-games-2%2Fmoto-x3m-winter.html&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5tYXRobm9vay5jb20vZnVuLWdhbWVzLTIvbW90by14M20td2ludGVyLmh0bWwiLCJwYXJlbnREb21haW4iOiJtYXRobm9vay5jb20iLCJ0b3BEb21haW4iOiJtYXRobm9vay5jb20iLCJoYXNJbXByZXNzaW9uIjp0cnVlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D', document.title,  favicon.href);
 }
 
 // Apps
